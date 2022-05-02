@@ -9,9 +9,17 @@ Este proceso se controla con el ratón.
 
 Mientras experimentaba, se produjo un efecto interesante:
 Si se combina el shader realizado con el control del ratón y cualquier imagen, la imagen parece aparecer poco a poco. Según las reglas del Juego de la Vida, la aparición de la imagen parece una tinta mágica que corre desde la punta del ratón hasta la forma de la imagen.
+
+
 ![Screenshot (284)](https://user-images.githubusercontent.com/44921828/166342705-b0fc69b4-b4c3-4991-9de8-9dc0df09aa5a.png)
+
+
 *Empiezo de la aplicacion*
+
+
 ![Screenshot (285)](https://user-images.githubusercontent.com/44921828/166342715-300a2b07-0454-4cae-8825-230dc2f360d2.png)
+
+
 *Al final el imagen aparece*
 
 imagen de: https://es.m.wikipedia.org/wiki/Archivo:Flower_jtca001.jpg
